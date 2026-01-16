@@ -1,4 +1,4 @@
-# Portafolio QA Junior 🧪
+# Portafolio QA 🧪
 
 Este repositorio contiene ejercicios prácticos enfocados en **Pruebas Manuales de Software**.
 
