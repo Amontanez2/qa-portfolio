@@ -1,6 +1,6 @@
 # Portafolio QA Junior 🧪
 
-Este repositorio contiene ejercicios prácticos enfocados en **Pruebas Manuales de Software**, orientados al rol de **QA Junior**.
+Este repositorio contiene ejercicios prácticos enfocados en **Pruebas Manuales de Software**.
 
 ## 🔍 Alcance
 - Pruebas funcionales manuales
