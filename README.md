@@ -1,27 +1,28 @@
-# QA Junior Portfolio 🧪
+# Portafolio QA Junior 🧪
 
-This repository contains practical exercises focused on **Manual Software Testing** for a **QA Junior** role.
+Este repositorio contiene ejercicios prácticos enfocados en **Pruebas Manuales de Software**, orientados al rol de **QA Junior**.
 
-## 🔍 Scope
-- Manual functional testing
-- Test case design
-- Test scenarios
-- Bug reporting
-- Test documentation
+## 🔍 Alcance
+- Pruebas funcionales manuales
+- Diseño de casos de prueba
+- Escenarios de prueba
+- Reporte de incidencias (bugs)
+- Documentación de pruebas
 
-## 🧪 Tested Module
-- Login functionality (web application)
+## 🧪 Módulo probado
+- Funcionalidad de inicio de sesión (Login)
 
-## 🛠 Tools Used
-- Excel (test cases)
-- Markdown (documentation)
-- GitHub (version control)
+## 🛠 Herramientas utilizadas
+- Excel (casos de prueba)
+- Markdown (documentación)
+- GitHub (control de versiones)
 
-## 📂 Repository Structure
-- `test-cases/` → Test case documentation
-- `bug-reports/` → Bug reports
-- `test-scenarios/` → Test scenarios
-- `evidence/` → Test evidence (screenshots)
+## 📂 Estructura del repositorio
+- `casos-de-prueba/` → Casos de prueba documentados
+- `reportes-de-bugs/` → Reportes de errores
+- `escenarios-de-prueba/` → Escenarios de prueba
+- `evidencias/` → Evidencias de ejecución
 
-## 🎯 Objective
-To demonstrate my skills as a **QA Junior**, focusing on quality, attention to detail and clear documentation.
+## 🎯 Objetivo
+Demostrar mis competencias como **QA Junior**, con enfoque en la calidad del software, atención al detalle y documentación clara.
+
